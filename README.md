@@ -33,4 +33,3 @@ Currently, I’m doing a DevOps internship where I work with real-world systems,
 
 ---
 
-⭐ Always learning, building, and improving.
