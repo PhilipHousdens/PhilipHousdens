@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m passionate about **DevOps** and modern software development.  
+I’m passionate about modern and efficient software development.  
 Currently, I’m doing a DevOps internship where I work with real-world systems, and in my free time I focus on learning, experimenting, and implementing DevOps practices hands-on.
 
 ---
