@@ -23,7 +23,7 @@ I build and ship production web apps end to end: Next.js interfaces, APIs, datab
 
 ## 💼 Experience
 
-- **Full-Stack Developer**, Revnt)
+- **Full-Stack Developer**, Reventel Co., Ltd.)
 - **DevOps Engineer Intern**, Manao Software (Nov 2025 - Mar 2026): CI/CD pipelines and Docker-based deployment workflo
 
 ---
