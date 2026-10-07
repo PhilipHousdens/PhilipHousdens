@@ -1,35 +1,46 @@
-# 👋 Hi, I'm Philip Housden
+# Hi, I'm Philip Housden 👋
 
-🎓 **Software Engineering student** at **CAMT, Chiang Mai University (CMU)**  
-🚀 **DevOps Engineer Intern** at **Manao Software**
+**Full-Stack Developer** at **Reventel Co., Ltd.**, based in Chiang Mai, Thailand.
+I build and ship production web apps end to end: Next.js interfaces, APIs, databases, auth and deployment.
 
----
-
-## 👨‍💻 About Me
-I’m passionate about modern and efficient software development.  
-Currently, I’m doing a DevOps internship where I work with real-world systems, and in my free time I focus on learning, experimenting, and implementing DevOps practices hands-on.
+🎓 B.S. Software Engineering, CAMT, Chiang Mai University
+🌏 Open to remote roles with international teams
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🚀 What I've built
 
-**Languages**  
-- Python, Java, JavaScript, TypeScript  
+- **[ZPage](https://www.zpage.io)**: A block-based landing page and bio-link builder. I own it end to end: App Router architecture, drag-and-drop editor, draft/publish flow, subdomain routing and secure uploads.
+  `Next.js` `Prisma` `PostgreSQL` `NextAuth.js` `@dnd-kit` `Zustand`
 
-**Frameworks & Libraries**  
-- React, Vue.js, Spring Boot, FastAPI, Node.js, Tailwind CSS  
+- **[Blue Chaty](https://www.bluechaty.com)**: One shared team inbox for WhatsApp, LINE, Instagram, Messenger and Email. I build product features and fix production issues in auth, onboarding and Redis.
+  `Next.js` `Upstash Redis` `Vercel`
 
-**Tools**  
-- Git, Docker, Postman, Figma, Fork, and various DevOps tools  
-
-**Databases**  
-- MySQL, PostgreSQL, MongoDB  
+- **BioSecure Bank Access**: My capstone project, a login that checks both iris and face. I built the FastAPI backend, PostgreSQL auth schema and API middleware, containerized with Docker.
+  `FastAPI` `Vue.js` `U-Net` `Docker`
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **philip.houden.04@gmail.com**  
-- 💼 LinkedIn: [Philip Housden](https://www.linkedin.com/in/philip-housden-28a096229/)
+## 💼 Experience
+
+- **Full-Stack Developer**, Revnt)
+- **DevOps Engineer Intern**, Manao Software (Nov 2025 - Mar 2026): CI/CD pipelines and Docker-based deployment workflo
 
 ---
 
+## 🛠️ Tech I use
+
+**Languages:** TypeScript, Java
+**Frontend:** Next.js, React, Vue 3, Tailwind CSS, Zustand
+**Backend:** Node.js, Next.js Aot, REST APIs
+**Data & Auth:** PostgreSQL, MySQL, MongoDB, Supabase, Prisma, NextAuth.js, JWT, OAuth
+**DevOps & Cloud:** GitHub Actire, Upstash Redis, Azure
+**Tools:** Git, Postman, Figma, Fork
+
+---
+
+## 📫 Get in touch
+
+- 📧 [philip.houden.04@gmail.com](mailto:philip.houden.04@gmail.com)
+- 💼 [LinkedIn](https://www.lin8a096229/)
+- 🌐 Portfolio: *(add the link once it's deployed)*
